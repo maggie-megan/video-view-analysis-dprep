@@ -19,3 +19,8 @@ Learn how to use ggplot and how to use git hub
 - report.html
 
 Making so many changes so that people know that I am making these changes. I am working really hard on this so that my files make sense. Everyone knows that I am working and that working works so well and that is very cool and swag.
+# Project title
+Javi was here
+
+
+Making some changes for class!

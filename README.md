@@ -1,14 +1,14 @@
-# Project title
+# Tutorial 3
 
 ## Goal
-Short project objective.
+Learn how to use ggplot and how to use git hub
 
 ## Data
 - Main file: video_view.csv
 
 ## Requirements
 - R
-- Packages: tidyverse
+- Packages: tidyverse, ggplot2
 - Quarto installed
 
 ## Run steps
@@ -17,3 +17,5 @@ Short project objective.
 
 ## Expected output
 - report.html
+
+Making so many changes so that people know that I am making these changes. I am working really hard on this so that my files make sense. Everyone knows that I am working and that working works so well and that is very cool and swag.

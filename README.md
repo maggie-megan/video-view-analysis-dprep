@@ -17,3 +17,5 @@ Short project objective.
 
 ## Expected output
 - report.html
+
+Making changes to the README
